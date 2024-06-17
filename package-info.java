@@ -1,1 +1,1 @@
-package com.java.dailyAssignments5;
+package com.java.dailyExercisesday7;

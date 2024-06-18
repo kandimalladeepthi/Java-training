@@ -1,1 +1,1 @@
-package com.java.dailyExercisesday7;
+package com.java.dailyExercisesday8;
